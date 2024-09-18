@@ -7,3 +7,30 @@ text-align: center;
 padding:10px;
 margin:10px;
 }
+
+.button {
+float:right;
+display: block;
+width: 100px;
+
+}
+
+.headerhandler {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Header {
+height: 100px;
+display: flex;
+}
+
+.headernav {
+    padding: 0%;
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    width: 300px;
+    margin: 0;
+}
